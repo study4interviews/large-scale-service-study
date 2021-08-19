@@ -6,5 +6,5 @@
 # WIKI
 [스터디 깃허브 위키 ](https://github.com/study4interviews/large-scale-service-study/wiki)
 
-## 스터디 서적
+# 스터디 서적
 - 대규모 서비스를 지탱하는 기술 (제이펍) 
